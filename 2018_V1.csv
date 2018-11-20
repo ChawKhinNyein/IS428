@@ -1,4 +1,4 @@
-Year,Country,Region,HappinessRank,HappinessScore,Economy,Social support,Health,Freedom,PerceptionsOfCorruption,Generosity,DystopiaResidual
+Year,Country,Region,HappinessRank,HappinessScore,Economy,Family,Health,Freedom,Trust,Generosity,DystopiaResidual
 2018,Albania,Central and Eastern Europe,1,4.586,0.916,0.817,0.79,0.419,0.032,0.149,1.462
 2018,Bosnia and Herzegovina,Central and Eastern Europe,2,5.129,0.915,1.078,0.758,0.28,0,0.216,1.883
 2018,Bulgaria,Central and Eastern Europe,3,4.933,1.054,1.515,0.712,0.359,0.009,0.064,1.219
